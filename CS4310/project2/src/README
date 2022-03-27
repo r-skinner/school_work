@@ -1,0 +1,6 @@
+TO COMPILE
+    `javac driver.java`
+
+TO RUN
+    `java driver <input.txt>`
+    e.g. `java driver test_files/test_1.txt`

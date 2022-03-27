@@ -1,0 +1,89 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java" "-javaagent:E:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.1\lib\idea_rt.jar=64571:E:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.1\bin" -Dfile.encoding=UTF-8 -classpath "E:\Users\ryan\Documents\Sync\College\Fall 2019\CS4200 AI\out\production\CS4200 AI" Driver
+[1] Random input
+[2] Enter input
+Please Choose: 1
+Using h1, it took 1581.970293 milliseconds and 10996 nodes to find a solution of 21 moves
+Using h2, it took 28.830418 milliseconds and 2123 nodes to find a solution of 21 moves
+7 1 2
+5 8 4
+3 6 0
+
+7 1 2
+5 8 0
+3 6 4
+
+7 1 2
+5 0 8
+3 6 4
+
+7 1 2
+0 5 8
+3 6 4
+
+7 1 2
+3 5 8
+0 6 4
+
+7 1 2
+3 5 8
+6 0 4
+
+7 1 2
+3 5 8
+6 4 0
+
+7 1 2
+3 5 0
+6 4 8
+
+7 1 2
+3 0 5
+6 4 8
+
+7 1 2
+3 4 5
+6 0 8
+
+7 1 2
+3 4 5
+0 6 8
+
+7 1 2
+0 4 5
+3 6 8
+
+0 1 2
+7 4 5
+3 6 8
+
+1 0 2
+7 4 5
+3 6 8
+
+1 4 2
+7 0 5
+3 6 8
+
+1 4 2
+0 7 5
+3 6 8
+
+1 4 2
+3 7 5
+0 6 8
+
+1 4 2
+3 7 5
+6 0 8
+
+1 4 2
+3 0 5
+6 7 8
+
+1 0 2
+3 4 5
+6 7 8
+
+0 1 2
+3 4 5
+6 7 8

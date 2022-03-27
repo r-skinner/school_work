@@ -1,0 +1,210 @@
+Insertion, size 2	0, -2, 
+Avg time: 820		-2, 0, 
+Insertion, size 4	2, 3, -2, 2, 
+Avg time: 634		-2, 2, 2, 3, 
+Insertion, size 8	2, 5, -5, 4, 5, 4, 6, -3, 
+Avg time: 531		-5, -3, 2, 4, 4, 5, 5, 6, 
+Insertion, size 16	-2, -13, 1, -13, 12, -13, 11, -11, 15, 5, 10, -8, -5, -9, 10, -6, 
+Avg time: 549		-13, -13, -13, -11, -9, -8, -6, -5, -2, 1, 5, 10, 10, 11, 12, 15, 
+Insertion, size 32	-22, 18, 3, -10, -18, 4, -30, 30, 13, 22, -26, -20, -23, -30, 17, 4, -9, 22, 31, -28, 26, -25, 5, -17, 23, 6, 26, -7, -10, 30, 11, 24, 
+Avg time: 661		-30, -30, -28, -26, -25, -23, -22, -20, -18, -17, -10, -10, -9, -7, 3, 4, 4, 5, 6, 11, 13, 17, 18, 22, 22, 23, 24, 26, 26, 30, 30, 31, 
+Insertion, size 64	Avg time: 1441		
+Insertion, size 128	Avg time: 4417		
+Insertion, size 256	Avg time: 17871		
+Insertion, size 512	Avg time: 45516		
+Insertion, size 1024	Avg time: 170842		
+Insertion, size 2048	Avg time: 655019		
+Insertion, size 4096	Avg time: 2571969		
+Insertion, size 8192	Avg time: 10108335		
+Insertion, size 16384	Avg time: 38293654		
+Insertion, size 32768	Avg time: 151545390		
+Insertion, size 65536	Avg time: 608319266		
+Merge, size 2		-1, 1, 
+Avg time: 562		-1, 1, 
+Merge, size 4		0, -3, 3, 3, 
+Avg time: 667		-3, 0, 3, 3, 
+Merge, size 8		-4, 5, -4, -3, -2, 0, -7, -3, 
+Avg time: 895		-7, -4, -4, -3, -3, -2, 0, 5, 
+Merge, size 16		-1, -6, -3, 2, -14, 6, -5, -7, 4, -5, 14, 12, -16, 7, 8, 11, 
+Avg time: 967		-16, -14, -7, -6, -5, -5, -3, -1, 2, 4, 6, 7, 8, 11, 12, 14, 
+Merge, size 32		12, 26, -6, -7, 23, 24, 22, 0, 8, 14, 29, -18, 10, -18, 4, 4, -29, -11, -24, -17, 25, -22, 3, -29, -9, 2, 18, -18, 0, 19, -23, 26, 
+Avg time: 1249		-29, -29, -24, -23, -22, -18, -18, -18, -17, -11, -9, -7, -6, 0, 0, 2, 3, 4, 4, 8, 10, 12, 14, 18, 19, 22, 23, 24, 25, 26, 26, 29, 
+Merge, size 64		Avg time: 3007		
+Merge, size 128		Avg time: 10718		
+Merge, size 256		Avg time: 48699		
+Merge, size 512		Avg time: 154011		
+Merge, size 1024	Avg time: 596787		
+Merge, size 2048	Avg time: 2265188		
+Merge, size 4096	Avg time: 7889893		
+Merge, size 8192	Avg time: 30877226		
+Merge, size 16384	Avg time: 122513912		
+Merge, size 32768	Avg time: 488718408		
+Merge, size 65536	Avg time: 1979353258		
+Quick, size 2		1, 1, 
+Avg time: 116		1, 1, 
+Quick, size 4		-2, 0, 3, 0, 
+Avg time: 51		-2, 0, 0, 3, 
+Quick, size 8		-8, 0, -7, -2, -4, -4, -7, -4, 
+Avg time: 61		-8, -7, -7, -4, -4, -4, -2, 0, 
+Quick, size 16		10, 4, -2, 9, 7, 7, -12, -5, 12, 4, -1, -10, 2, -7, -12, 1, 
+Avg time: 117		-12, -12, -10, -7, -5, -2, -1, 1, 2, 4, 4, 7, 7, 9, 10, 12, 
+Quick, size 32		-22, -13, 7, 6, 22, 29, 12, -10, 9, -25, -1, -13, -22, 4, 4, 31, 5, 25, -27, 23, 24, 22, -17, -28, -5, -19, 8, 17, -32, 4, 26, -10, 
+Avg time: 269		-32, -28, -27, -25, -22, -22, -19, -17, -13, -13, -10, -10, -5, -1, 4, 4, 4, 5, 6, 7, 8, 9, 12, 17, 22, 22, 23, 24, 25, 26, 29, 31, 
+Quick, size 64		Avg time: 771		
+Quick, size 128		Avg time: 2651		
+Quick, size 256		Avg time: 10138		
+Quick, size 512		Avg time: 34267		
+Quick, size 1024	Avg time: 129916		
+Quick, size 2048	Avg time: 474811		
+Quick, size 4096	Avg time: 2006955		
+Quick, size 8192	Avg time: 7804292		
+Quick, size 16384	Avg time: 30002105		
+Quick, size 32768	Avg time: 119202061		
+Quick, size 65536	Avg time: 474748253		
+Quick2, size 2		0, 0, 
+Avg time: 185		0, 0, 
+Quick2, size 4		-3, -1, 2, 1, 
+Avg time: 64		-3, -1, 1, 2, 
+Quick2, size 8		-8, -7, -6, 4, 4, 1, 0, 1, 
+Avg time: 50		-8, -7, -6, 0, 1, 1, 4, 4, 
+Quick2, size 16		-9, -16, 14, 7, 7, 8, -4, 2, 8, -15, -1, -11, -4, 7, 10, 12, 
+Avg time: 87		-16, -15, -11, -9, -4, -4, -1, 2, 7, 7, 7, 8, 8, 10, 12, 14, 
+Quick2, size 32		-24, 14, 3, 2, 4, -6, -4, -2, -32, 16, 6, -6, 7, 12, -12, 23, 22, 1, -21, -29, 24, -23, 9, 11, -29, 19, 2, 2, -9, 30, 0, 9, 
+Avg time: 421		-32, -29, -29, -24, -23, -21, -12, -9, -6, -6, -4, -2, 0, 1, 2, 2, 2, 3, 4, 6, 7, 9, 9, 11, 12, 14, 16, 19, 22, 23, 24, 30, 
+Quick2, size 64		Avg time: 457		
+Quick2, size 128	Avg time: 1084		
+Quick2, size 256	Avg time: 2386		
+Quick2, size 512	Avg time: 7233		
+Quick2, size 1024	Avg time: 17629		
+Quick2, size 2048	Avg time: 59359		
+Quick2, size 4096	Avg time: 160443		
+Quick2, size 8192	Avg time: 395437		
+Quick2, size 16384	Avg time: 905178		
+Quick2, size 32768	Avg time: 2028386		
+Quick2, size 65536	Avg time: 4147820		
+Quick3, size 2		-2, -1, 
+Avg time: 141		-2, -1, 
+Quick3, size 4		3, -3, 3, 2, 
+Avg time: 54		-3, 2, 3, 3, 
+Quick3, size 8		5, -5, 2, 4, -5, 2, -3, -5, 
+Avg time: 108		-5, -5, -5, -3, 2, 2, 4, 5, 
+Quick3, size 16		-12, -4, 10, 6, 0, 3, -4, -10, -4, -13, 14, 8, -10, 11, -4, 14, 
+Avg time: 186		-13, -12, -10, -10, -4, -4, -4, -4, 0, 3, 6, 8, 10, 11, 14, 14, 
+Quick3, size 32		13, 12, -29, -15, 28, 4, 5, -11, -18, 29, 21, -27, 14, -8, -31, 25, -3, -23, -2, 19, -10, -32, -6, -20, -6, 15, -11, -9, 25, -28, 5, -24, 
+Avg time: 762		-32, -31, -29, -28, -27, -24, -23, -20, -18, -15, -11, -11, -10, -9, -8, -6, -6, -3, -2, 4, 5, 5, 12, 13, 14, 15, 19, 21, 25, 25, 28, 29, 
+Quick3, size 64		Avg time: 2110		
+Quick3, size 128	Avg time: 5143		
+Quick3, size 256	Avg time: 11558		
+Quick3, size 512	Avg time: 25795		
+Quick3, size 1024	Avg time: 56443		
+Quick3, size 2048	Avg time: 122128		
+Quick3, size 4096	Avg time: 261864		
+Quick3, size 8192	Avg time: 559212		
+Quick3, size 16384	Avg time: 1188054		
+Quick3, size 32768	Avg time: 2562784		
+Quick3, size 65536	Avg time: 5413608		
+Insertion, size 2	0, 1, 
+Avg time: 90		0, 1, 
+Insertion, size 4	0, 1, 2, 3, 
+Avg time: 37		0, 1, 2, 3, 
+Insertion, size 8	0, 1, 2, 3, 4, 5, 6, 7, 
+Avg time: 45		0, 1, 2, 3, 4, 5, 6, 7, 
+Insertion, size 16	0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
+Avg time: 59		0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
+Insertion, size 32	0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 
+Avg time: 102		0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 
+Insertion, size 64	Avg time: 131		
+Insertion, size 128	Avg time: 221		
+Insertion, size 256	Avg time: 412		
+Insertion, size 512	Avg time: 815		
+Insertion, size 1024	Avg time: 1551		
+Insertion, size 2048	Avg time: 2936		
+Insertion, size 4096	Avg time: 5778		
+Insertion, size 8192	Avg time: 11534		
+Insertion, size 16384	Avg time: 22895		
+Insertion, size 32768	Avg time: 45489		
+Insertion, size 65536	Avg time: 90720		
+Merge, size 2		0, 1, 
+Avg time: 106		0, 1, 
+Merge, size 4		0, 1, 2, 3, 
+Avg time: 74		0, 1, 2, 3, 
+Merge, size 8		0, 1, 2, 3, 4, 5, 6, 7, 
+Avg time: 118		0, 1, 2, 3, 4, 5, 6, 7, 
+Merge, size 16		0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
+Avg time: 282		0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
+Merge, size 32		0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 
+Avg time: 845		0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 
+Merge, size 64		Avg time: 2408		
+Merge, size 128		Avg time: 9853		
+Merge, size 256		Avg time: 41018		
+Merge, size 512		Avg time: 153036		
+Merge, size 1024	Avg time: 590637		
+Merge, size 2048	Avg time: 2232468		
+Merge, size 4096	Avg time: 7767762		
+Merge, size 8192	Avg time: 30593733		
+Merge, size 16384	Avg time: 121519422		
+Merge, size 32768	Avg time: 485572859		
+Merge, size 65536	Avg time: 1972983720		
+Quick, size 2		0, 1, 
+Avg time: 101		0, 1, 
+Quick, size 4		0, 1, 2, 3, 
+Avg time: 45		0, 1, 2, 3, 
+Quick, size 8		0, 1, 2, 3, 4, 5, 6, 7, 
+Avg time: 51		0, 1, 2, 3, 4, 5, 6, 7, 
+Quick, size 16		0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
+Avg time: 68		0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
+Quick, size 32		0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 
+Avg time: 102		0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 
+Quick, size 64		Avg time: 149		
+Quick, size 128		Avg time: 223		
+Quick, size 256		Avg time: 439		
+Quick, size 512		Avg time: 796		
+Quick, size 1024	Avg time: 1540		
+Quick, size 2048	Avg time: 2925		
+Quick, size 4096	Avg time: 5827		
+Quick, size 8192	Avg time: 11533		
+Quick, size 16384	Avg time: 22911		
+Quick, size 32768	Avg time: 45440		
+Quick, size 65536	Avg time: 90870		
+Quick2, size 2		0, 1, 
+Avg time: 98		0, 1, 
+Quick2, size 4		0, 1, 2, 3, 
+Avg time: 38		0, 1, 2, 3, 
+Quick2, size 8		0, 1, 2, 3, 4, 5, 6, 7, 
+Avg time: 45		0, 1, 2, 3, 4, 5, 6, 7, 
+Quick2, size 16		0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
+Avg time: 57		0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
+Quick2, size 32		0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 
+Avg time: 432		0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 
+Quick2, size 64		Avg time: 1723		
+Quick2, size 128	Avg time: 5401		
+Quick2, size 256	Avg time: 17786		
+Quick2, size 512	Avg time: 61860		
+Quick2, size 1024	Avg time: 227770		
+Quick2, size 2048	Avg time: 872323		
+Quick2, size 4096	Avg time: 3410282		
+Quick2, size 8192	Avg time: 13467886		
+Quick2, size 16384	Avg time: 53555171		
+Quick2, size 32768	Avg time: 213792172		
+Quick2, size 65536	Avg time: 853615877		
+Quick3, size 2		0, 1, 
+Avg time: 97		0, 1, 
+Quick3, size 4		0, 1, 2, 3, 
+Avg time: 59		0, 1, 2, 3, 
+Quick3, size 8		0, 1, 2, 3, 4, 5, 6, 7, 
+Avg time: 89		0, 1, 2, 3, 4, 5, 6, 7, 
+Quick3, size 16		0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
+Avg time: 195		0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
+Quick3, size 32		0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 
+Avg time: 479		0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 
+Quick3, size 64		Avg time: 1120		
+Quick3, size 128	Avg time: 2477		
+Quick3, size 256	Avg time: 5427		
+Quick3, size 512	Avg time: 11617		
+Quick3, size 1024	Avg time: 24838		
+Quick3, size 2048	Avg time: 52786		
+Quick3, size 4096	Avg time: 112093		
+Quick3, size 8192	Avg time: 234848		
+Quick3, size 16384	Avg time: 495316		
+Quick3, size 32768	Avg time: 1037624		
+Quick3, size 65536	Avg time: 2177350		

@@ -1,0 +1,4 @@
+To compile:
+    javac SchedulerDriver.java
+
+To run: java SchedulerDriver <input.txt>

@@ -1,0 +1,6 @@
+To compile:
+    `javac Driver.java`
+
+To run:
+    `java Driver`
+    then follow on screen prompts

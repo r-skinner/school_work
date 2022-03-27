@@ -1,0 +1,6 @@
+Process 4 on cn09
+Process 2 on cn07
+Process 3 on cn08
+Process 1 on cn06
+Process 0 on cn05
+Execution time (sec) = 15.769638, pi = 3.141261
